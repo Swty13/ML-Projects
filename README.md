@@ -1,8 +1,15 @@
 # ML-Projects
 Various Algorithms Implementation--Happy Learning..!!!!
 
+## DATA PREPRATION
+1. Data Cleaning: Identifying and correcting mistakes or errors in the data.
+2. Feature Selection: Identifying those input variables that are most relevant to the task.
+3. Data Transforms: Changing the scale or distribution of variables.
+4. Feature Engineering: Deriving new variables from available data.
+5. Dimensionality Reduction: Creating compact projections of the data.
 
-# STATASTICS
+
+## STATASTICS
 For every data scientist it is very important to know the data insight before giving findigs of data and for that data analysis is very important.
 Statistics is a branch of mathematics dealing with the collection, analysis, interpretation, and presentation of masses of numerical data.
 There are two types of statistics:
